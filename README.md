@@ -1,0 +1,1 @@
+This repository contains all the scripts that were used for performing allele-specific expression (ASE) analysis on the water buffalo. 
